@@ -1,5 +1,7 @@
 __CSE 15L Spring 2022 Announcement__
-We will be using [Autograder][1]: https://autograder.ucsd.edu/
+We will be using 
+
+[Autograder][1]: https://autograder.ucsd.edu/
 
 [1]: https://autograder.ucsd.edu/
 

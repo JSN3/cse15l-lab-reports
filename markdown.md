@@ -28,8 +28,7 @@ __This sentence is bolded!__
 3. Three  3) Three  3.Three
 
 ## Horizontal Rule
-_using --- or ***_
----
+***
 
 ##  Incline Code
 `System.out.println("Hello World!);`

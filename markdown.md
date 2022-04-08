@@ -13,6 +13,7 @@ __This sentence is bolded!__
 
 ## Image
 ![Image][1]
+
 [1]: https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png
 
 ## Blockquote

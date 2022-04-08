@@ -7,8 +7,8 @@ _This sentence is italicized!_
 __This sentence is bolded!__
 
 ## Link
-[https://ucsd.edu/][1]
-[1]: sss
+[Link][1]
+[1]: https://ucsd.edu/
 
 ## Image
 ![Image][1]

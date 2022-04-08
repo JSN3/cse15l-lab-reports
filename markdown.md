@@ -18,6 +18,8 @@ __This sentence is bolded!__
 > "This is a test quote"
 
 ## List
-* one   - one 
-* two   - two
-* three - three
+* one   - one   • one
+* two   - two   • two
+* three - three • three
+
+

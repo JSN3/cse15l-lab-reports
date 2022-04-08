@@ -26,3 +26,15 @@ __This sentence is bolded!__
 1. One    1) One    1.One
 2. Two    2) Two    2.Two
 3. Three  3) Three  3.Three
+
+## Horizontal Rule
+---
+***
+
+##  Incline Code
+'System.out.println("Hello World!);'
+
+# Code Block
+class Test {
+print  'System.out.println("This is a test.");'
+print'}'

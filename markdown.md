@@ -12,7 +12,7 @@ __This sentence is bolded!__
 
 ## Image
 ![Image][1]
-[1]: https://imageio.forbes.com/dam/imageserve/5c13d14731358e5b4339c564/0x0.png?cropX1=-1&cropY1=-1&cropX2=-1&cropY2=-1&quality=75&fit=&background=000000&uri=
+[1]: https://upload.wikimedia.org/wikipedia/commons/a/ab/Apple-logo.png
 
 ## Blockquote
 > "This is a test quote"
@@ -22,4 +22,7 @@ __This sentence is bolded!__
 * two   - two   • two
 * three - three • three
 
-
+## Numbered List
+1. One    1) One    1.One
+2. Two    2) Two    2.Two
+3. Three  3) Three  3.Three

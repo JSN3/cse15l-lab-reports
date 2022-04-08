@@ -35,8 +35,8 @@ _using --- or ***_
 `System.out.println("Hello World!);`
 
 ## Code Block
-# code block
-print 'class Test {' \n
-print 'System.out.println("This is a test.");'
-print '}'
-
+```
+class Test {
+  System.out.println("This is a test.");
+}
+```

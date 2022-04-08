@@ -41,3 +41,6 @@ class Test {
   System.out.println("This is a test.");
 }
 ```
+
+## VS Code Integration
+If you see this sentence, then it has worked.

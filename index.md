@@ -1,8 +1,7 @@
 ***
-# CSE 15L Spring Quarter 2022
+# Spring Quarter 2022
 ***
 ## Week 2 Lab Report
-***
 ## April 7, 2022
 [Lab Report 1][1]
 

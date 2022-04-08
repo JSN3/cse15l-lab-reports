@@ -32,9 +32,11 @@ _using --- or ***_
 ---
 
 ##  Incline Code
-'System.out.println("Hello World!);'
+`System.out.println("Hello World!);`
 
 # Code Block
-class Test {
-print  'System.out.println("This is a test.");'
-print'}'
+# code block
+`class Test {
+  System.out.println("This is a test.");
+}`
+

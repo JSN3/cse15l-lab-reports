@@ -8,6 +8,7 @@ __This sentence is bolded!__
 
 ## Link
 [Link][1]
+
 [1]: https://ucsd.edu/
 
 ## Image

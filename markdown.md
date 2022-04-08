@@ -36,7 +36,7 @@ _using --- or ***_
 
 # Code Block
 # code block
-`class Test {
-  System.out.println("This is a test.");
-}`
+print `class Test {`
+print `System.out.println("This is a test.");`
+print `}`
 

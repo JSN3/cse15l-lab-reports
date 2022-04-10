@@ -1,6 +1,6 @@
 # Lab Report 1
 ## Part 1: Setting Up Visual Studio Code
-I searched online to install [Visual Studio Code](https://code.visualstudio.com/).
+Using a browser, I searched online to install [Visual Studio Code](https://code.visualstudio.com/).
 
 Since my laptop uses Windows, I downloaded VSCode for Windows x64.
 

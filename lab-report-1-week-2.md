@@ -1,4 +1,5 @@
 # Lab Report 1 - Remote Access
+***
 ## Part 1: Setting Up Visual Studio Code
 Using a browser, I searched online to install [Visual Studio Code](https://code.visualstudio.com/).
 

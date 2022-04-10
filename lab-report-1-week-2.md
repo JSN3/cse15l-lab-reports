@@ -19,7 +19,34 @@ Then I would type/enter `yes` to the first time prompt and enter my `Password:` 
 ***
 ## Part 3: Trying Some Commands
 In the terminal, I will type/enter the following commands.
+The following commands that I typed/enter involves `cd`, `ls`, `cp`, and `cat`.
+
 `cd ~`
+
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204a.png)
 
+`cd`
 
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204b.png)
+
+`ls -lat`
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204c.png)
+
+`ls -a`
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204d.png)
+
+`ls <directory>`
+
+![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%204e.png)
+
+`cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/`
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204f.png)
+
+`cat /home/linux/ieng6/cs15lsp22/public/hello.txt`
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part4g.png)
+***
+# Part 4: Moving Files with `scp`

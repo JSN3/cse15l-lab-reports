@@ -87,3 +87,5 @@ In the terminal, I will type/enter the provided code:
 In addition, I can use `UPARROW` key to recall the last command.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%207c.png)
+
+~End~

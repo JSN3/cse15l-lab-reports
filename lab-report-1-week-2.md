@@ -40,7 +40,7 @@ The following commands that I typed/enter involves `cd`, `ls`, `cp`, and `cat`.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204d.png)
 
-`ls <directory>`
+`ls <directory>` _using another person's username_
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204e.png)
 

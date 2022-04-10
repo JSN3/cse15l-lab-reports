@@ -11,7 +11,7 @@ I went to my downloads in file explorer and ran VSCodeUserSetup-x64 to install a
 ## Part 2: Remotely Connecting
 In order for my laptop to be connected to a remote computer, I installed the [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension in VSCode. On the other hand, I could of also installed OpenSSH for Windows.
 
-I would access the terminal tab to generate a new terminal and type/enter `ssh cs15lsp22zz@ieng6.ucsd.edu` (where zz replaced by my account username).
+I would access the terminal tab to generate a new terminal and type/enter `ssh cs15lsp22zz@ieng6.ucsd.edu` (where `zz` replaced by my account username).
 
 Then I would type/enter `yes` to the first time prompt and enter my `Password:` _hidden while typing_--that was [changed](https://sdacs.ucsd.edu/~icc/index.php) prior for setup--to be logged into the remote computer.
 
@@ -54,16 +54,16 @@ Using VSCode, I would create the file `WhereAmI.java` with the provided code.
 
 ![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%205a.png)
 
-Then I will type/enter the provided code into the terminal `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` (where zz is replaced by my account username) to log in and enter `ls` in the terminal to check if the file has been successfully copied.
+Then I will type/enter the provided code into the terminal `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` (where `zz` is replaced by my account username) to log in and enter `ls` in the terminal to check if the file has been successfully copied.
 
 ![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%205b.png)
 ***
 # Part 5: Setting an SSH Key
 To set an SSH Key, I would type/enter the provided code into the terminal `ssh-keygen` and hit enter twice for no passphrase.
 
-Then I would enter the provided code into the terminal `$ ssh cs15lsp22zz@ieng6.ucsd.edu` (where zz is replaced by my account username) to log in to type/enter the provided code into the terminal `mkdir .ssh` and then `CTRL + D` to log out.
+Then I would enter the provided code into the terminal `$ ssh cs15lsp22zz@ieng6.ucsd.edu` (where `zz` is replaced by my account username) to log in to type/enter the provided code into the terminal `mkdir .ssh` and then `CTRL + D` to log out.
 
-Finally, I would type/enter the provided code into the terminal `$ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys` (where `<user-name>` is replaced by the result that was given from typing/entering `ssh-keygen` and zz is replaced by my account username) to generate an SSH key to bypass entering my password.
+Finally, I would type/enter the provided code into the terminal `$ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys` (where `<user-name>` is replaced by the result that was given from typing/entering `ssh-keygen` and `zz` is replaced by my account username) to generate an SSH key to bypass entering my password.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%206.png)
 ***

@@ -20,4 +20,6 @@ Then I would type/enter `yes` to the first time prompt and enter my `Password:` 
 ## Part 3: Trying Some Commands
 In the terminal, I will type/enter the following commands.
 `cd ~`
-![Image]()
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204a.png)
+
+

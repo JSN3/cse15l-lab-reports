@@ -13,7 +13,7 @@ In order for my laptop to be connected to a remote computer, I installed the [Re
 
 I would access the terminal tab to generate a new terminal and type/enter `ssh cs15lsp22zz@ieng6.ucsd.edu` (where zz represents my account username).
 
-Then I would type/enter `yes` to the first time prompt and enter my `Password:` (hidden while typing) that was [changed](https://sdacs.ucsd.edu/~icc/index.php) prior for setup to be logged into the remote computer.
+Then I would type/enter `yes` to the first time prompt and enter my `Password:` (hidden while typing), that was [changed](https://sdacs.ucsd.edu/~icc/index.php) prior for setup, to be logged into the remote computer.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%203.png)
 ***

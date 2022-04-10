@@ -11,9 +11,9 @@ I went to my downloads in file explorer and ran VSCodeUserSetup-x64 to install a
 ## Part 2: Remotely Connecting
 In order for my laptop to be connected to a remote computer, I installed the [Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh) extension in VSCode. On the other hand, I could of also installed OpenSSH for Windows.
 
-I would access the terminal tab to generate q new terminal and type/enter `ssh cs15lsp22zz@ieng6.ucsd.edu` (where zz represents my account username).
+I would access the terminal tab to generate a new terminal and type/enter `ssh cs15lsp22zz@ieng6.ucsd.edu` (where zz represents my account username).
 
-Then I would type/enter yes to the first time prompt and enter my `Password:` (hidden while typing) and was [changed](https://sdacs.ucsd.edu/~icc/index.php) prior for setup.
+Then I would type/enter `yes` to the first time prompt and enter my `Password:` (hidden while typing) and was [changed](https://sdacs.ucsd.edu/~icc/index.php) prior for setup.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%203.png)
 ***

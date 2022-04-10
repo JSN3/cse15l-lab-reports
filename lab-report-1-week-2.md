@@ -1,3 +1,5 @@
 # Lab Report 1
 ## Setting Up VSCode
-I went online to install [VSCode](https://code.visualstudio.com/).
+I searched online to install [VSCode](https://code.visualstudio.com/).
+Since my laptop uses Windows, I downloaded VSCode for Windows x64.
+I went to my file explorer and ran VSCodeUserSetup-x64 to install and launch VSCode.

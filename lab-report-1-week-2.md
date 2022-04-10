@@ -39,7 +39,7 @@ The following commands that I typed/enter involves `cd`, `ls`, `cp`, and `cat`.
 
 `ls <directory>`
 
-![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%204e.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%204e.png)
 
 `cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/`
 
@@ -52,11 +52,11 @@ The following commands that I typed/enter involves `cd`, `ls`, `cp`, and `cat`.
 # Part 4: Moving Files with `scp`
 Using VSCode, I would create the file `WhereAmI.java` with the provided code.
 
-![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%205a.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%205a.png)
 
 Then I will type/enter the provided code into the terminal `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` (where `zz` is replaced by my account username) to log in and enter `ls` in the terminal to check if the file has been successfully copied.
 
-![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%205b.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%205b.png)
 ***
 # Part 5: Setting an SSH Key
 To set an SSH Key, I would type/enter the provided code into the terminal `ssh-keygen` and hit enter twice for no passphrase.
@@ -74,7 +74,7 @@ In the terminal, I will type/enter the provided code:
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%207a.png)
 
 `$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
-![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%207b.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%207b.png)
 
 In addition, I can use `UPARROW` key to recall the last command.
-![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%207c.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%207c.png)

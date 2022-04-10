@@ -1,4 +1,4 @@
-# Lab Report 1
+# Lab Report 1 - Remote Access
 ## Part 1: Setting Up Visual Studio Code
 Using a browser, I searched online to install [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -71,7 +71,10 @@ Finally, I would type/enter the provided code into the terminal `$ scp /Users/<u
 In the terminal, I will type/enter the provided code:
 
 `ssh cs15lsp22zz@ieng6.ucsd.edu "ls"` (where `zz` is replaced by my account username)
-![Image]()
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%207a.png)
 
 `$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
-![Image]()
+![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%207b.png)
+
+In addition, I can use `UPARROW` key to recall the last command.
+![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%207c.png)

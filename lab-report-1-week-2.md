@@ -68,3 +68,10 @@ Finally, I would type/enter the provided code into the terminal `$ scp /Users/<u
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part%206.png)
 ***
 # Part 6 - Optimizing Remote Running
+In the terminal, I will type/enter the provided code:
+
+`ssh cs15lsp22zz@ieng6.ucsd.edu "ls"` (where `zz` is replaced by my account username)
+![Image]()
+
+`$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
+![Image]()

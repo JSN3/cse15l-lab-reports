@@ -50,3 +50,5 @@ The following commands that I typed/enter involves `cd`, `ls`, `cp`, and `cat`.
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part4g.png)
 ***
 # Part 4: Moving Files with `scp`
+Using VSCode, I would create the file `WhereAmI.java` with the following provided code.
+![Image]()

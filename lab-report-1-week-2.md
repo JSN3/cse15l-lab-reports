@@ -50,5 +50,12 @@ The following commands that I typed/enter involves `cd`, `ls`, `cp`, and `cat`.
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/Lab%201%20-%20Part4g.png)
 ***
 # Part 4: Moving Files with `scp`
-Using VSCode, I would create the file `WhereAmI.java` with the following provided code.
-![Image]()
+Using VSCode, I would create the file `WhereAmI.java` with the provided code.
+
+![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%205a.png)
+
+Then I will type/enter the provided code into the terminal `scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/` (where zz represents my account username) to log in and enter `ls` in the terminal to check if the file has been successfully copied.
+
+![Image](https://github.com/JSN3/cse15l-lab-reports/blob/main/Lab%201%20-%20Part%205b.png)
+***
+# Part 5: Setting an SSH Key

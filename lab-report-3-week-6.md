@@ -44,7 +44,7 @@ Copying my whole markdown-parse directory to my ieng6 account:
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%201a.png)
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%201b.png)
 
-Compiling and running the tests for my repository while being logged into my ieng6 account.
+Compiling and running the tests for my repository while being logged into my ieng6 account _where run.sh contains compile and run commands_:
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%202.png)
 

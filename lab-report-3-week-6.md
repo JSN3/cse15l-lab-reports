@@ -12,3 +12,7 @@ Here is my config file, initially the content of the file was empty, so I used V
 After the config file is complete, I can log in to the remote computer with the new username I made.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20A%20-%20Part%202.png)
+
+I can copy a file much quicker to the remote computer when I use `copy.java` as an example java file to copy.
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20A%20-%20Part%203.png)

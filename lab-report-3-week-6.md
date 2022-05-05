@@ -9,7 +9,7 @@ Here is my config file, initially the content of the file was empty, so I used V
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20A%20-%20Part%201.png)
 
-After the config file is complete, I can log in to the remote computer with the new username I made.
+After the config file is complete, I can log in to the remote computer with the new username that I made.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20A%20-%20Part%202.png)
 

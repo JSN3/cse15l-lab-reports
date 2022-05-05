@@ -31,3 +31,5 @@ Where the public/private key is stored in my account:
 Using git commands to commit and push a change to Github while logged in to ssh:
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20B%20-%20Part%202.png)
+
+[Resulting Commit](https://github.com/JSN3/markdown-parser/commit/b3be8a18462b924657a8598edaffb6811f8b41fb)

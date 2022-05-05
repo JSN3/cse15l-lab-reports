@@ -34,9 +34,21 @@ Using git commands to commit and push a change to Github while logged in to ssh:
 
 [Resulting Commit](https://github.com/JSN3/markdown-parser/commit/b3be8a18462b924657a8598edaffb6811f8b41fb)
 
+***
+
 ## Choice 3 - Copying whole directories with `scp -r`
 _I used a shellscript file named "run" `run.sh` that has the commands `javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java MarkdownParse.java` and `java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest` for faster compiling and testing._
 
 Copying my whole markdown-parse directory to my ieng6 account:
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%201a.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%201b.png)
+
+Compiling and running the tests for my repository while being logged into my ieng6 account.
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%202.png)
+
+Copying the whole directory and running the tests in one line.
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%203.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%203b.png)

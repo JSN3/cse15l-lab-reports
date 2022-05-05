@@ -1,5 +1,6 @@
-# Lab Report 3
+# Lab Report 3 - More SSH Stuff
 
 ***
 
-test
+## Choice 1 - Streamlining SSH Configuration
+

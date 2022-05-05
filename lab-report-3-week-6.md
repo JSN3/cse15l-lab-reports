@@ -16,3 +16,7 @@ After the config file is complete, I can log in to the remote computer with the 
 I can copy a file much quicker to the remote computer when I use `copy.java` as an example java file to copy.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20A%20-%20Part%203.png)
+
+***
+
+## Choice 2 - Setup Github Access from ieng6

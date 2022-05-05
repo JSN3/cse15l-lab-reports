@@ -37,4 +37,6 @@ Using git commands to commit and push a change to Github while logged in to ssh:
 ## Choice 3 - Copying whole directories with `scp -r`
 _I use a shellscript file named "run" `run.sh` that has the commands `javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java MarkdownParse.java` and `java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest` for faster compiling and testing._
 
-![Image]()
+Copying my whole markdown-parse directory to my ieng6 account:
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%201a.png)

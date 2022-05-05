@@ -3,7 +3,7 @@
 ***
 
 ## Choice 1 - Streamlining SSH Configuration
-In the beginning, I did not have a .ssh/config path, so I had to use the Windows command `$null > config` in order to create a config file.
+In the beginning, I did not have a .ssh/config path, so I had to use the Windows command `$null > config` through the terminal in order to create a config file.
 
 Here is my config file, initially the content of the file was empty, so I used VS Code in order to edit the config file.
 

@@ -52,3 +52,5 @@ Copying the whole directory and running the tests in one line.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%203.png)
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20C%20-%20Part%203b.png)
+
+_Initial attempt to copy a whole directory and run the tests in one line prompted issues with conflicting Java versions, so the post on CSE 15L Piazza @ note444 helped me resolve this issue._

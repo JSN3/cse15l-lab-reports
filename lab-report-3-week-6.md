@@ -27,3 +27,7 @@ Where the public key is stored in my Github:
 Where the public/private key is stored in my account:
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20B%20-%20Part%201.png)
+
+Using git commands to commit and push a change to Github while logged in to ssh:
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20B%20-%20Part%202.png)

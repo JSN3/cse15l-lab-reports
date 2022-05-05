@@ -22,4 +22,4 @@ I can copy a file much quicker to the remote computer when I use `copy.java` as 
 ## Choice 2 - Setup Github Access from ieng6
 Where the public key is stored in my account:
 
-1[Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20B%20-%20Part%201.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/LR3%20Choice%20B%20-%20Part%201.png)

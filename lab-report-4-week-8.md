@@ -41,27 +41,27 @@ __other java file__
 
 __expectations for both java files__
 
-![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203a-4a.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203a-4a%20alt.png)
 
 __JUnit Tests in MarkdownParse.Test__
 
 __my java file__
 
-![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203b.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203b%20extra.png)
 
 __other java file__
 
-![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%204b.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%204b%20extra.png)
 
 __Terminal Output__
 
 __my java file__
 
-![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203c.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203c%20extra.png)
 
 __other java file__
 
-![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%204c.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%204c%20extra.png)
 
 ***
 

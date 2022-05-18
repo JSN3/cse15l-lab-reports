@@ -11,12 +11,12 @@
 
 ## Testing Snippet 1
 
-__Expectations for both java files__
+__expectations for both java files__
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%201a-2a.png)
 
 __JUnit Tests in MarkdownParse.Test__
 
-__my java file
+__my java file__
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%201b.png)
 

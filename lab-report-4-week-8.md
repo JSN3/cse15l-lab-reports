@@ -15,15 +15,21 @@ __Expectations for both java files__
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%201a-2a.png)
 
 __JUnit Tests in MarkdownParse.Test__
+
 __my java file
+
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%201b.png)
 
 __other java file__
+
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%202b.png)
 
 __Terminal Output__
+
 __my java file__
+
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%201c.png)
 
 __other java file__
+
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%202c.png)

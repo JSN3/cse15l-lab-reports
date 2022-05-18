@@ -3,9 +3,9 @@
 ***
 
 ## markdown-parser repositories
-[My markdown-parser](https://github.com/JSN3/markdown-parser)
+[my markdown-parser](https://github.com/JSN3/markdown-parser)
 
-[Reviewed markdown-parser](https://github.com/grantcoz/markdown-parse) (repository reviewed in Week 7)
+[reviewed markdown-parser](https://github.com/grantcoz/markdown-parse) (repository reviewed in Week 7)
 
 ***
 

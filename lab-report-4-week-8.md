@@ -65,4 +65,35 @@ __other java file__
 
 ***
 
+## Testing Snippet 3
+
+__expectations for both java files__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%205a-6a.png)
+
+__JUnit Tests in MarkdownParse.Test__
+
+__my java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%205b.png)
+
+__other java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%206b.png)
+
+__Terminal Output__
+
+__my java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%205c.png)
+
+__other java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%206c.png)
+
+***
+
+## Analysis of the Snippet Tests
+
+# Snippet 1
 r

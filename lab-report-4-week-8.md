@@ -7,4 +7,6 @@
 
 [Reviewed `markdown-parser`](https://github.com/grantcoz/markdown-parse)
 
+***
+
 ## Testing Snippet 1

@@ -95,5 +95,8 @@ __other java file__
 
 # Analysis of the Snippet Tests
 
-## Snippet 1
-r
+## code change for snippet 1
+I do not believe there is a small code change (<10 lines) that will make my program work for snippet 1 and all related cases that use incline code with backticks due to my coding abilities. My suggested change might be longer through a conditional that will check for backticks and when the conditional is true, then the program will run a separate filter made for backticks where the currentIndex will start where the last ] is located and the program will use the parentheses and backtick indices to find a link. In addition, there may be an extra for loop to filter out the same links if necessary.
+
+## code change for snippet 2
+s

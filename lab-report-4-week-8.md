@@ -104,4 +104,6 @@ I do not believe there is a small code change (<10 lines) that will make my prog
 ## code change for snippet 3
 I do not believe there is a small code change (<10 lines) that will make my program work for snippet 3 and all related cases that use newlines in brackets and parenthesis due to like other snippets of my coding abilities, the way that I built my program, and the randomness of a user's particular link format. My suggested change might be longer, involved, redundant, and fixed through identifying the string "https" as the start for `currentIndex` and to the end at a index of a new line which in string format would be "\n" where an ArrayList will take the text in between which supposedly is the link in a fixed "https" format while other formats may need me to use more conditionals. In addition, there may be an extra for loop and ArrayList to filter out the same links if necessary.
 
+***
+
 ~ End ~

@@ -1,6 +1,6 @@
-# Lab Report 4 - More markdown-parser Scenarios
+# Lab Report 4 - More `markdown-parser` Scenarios
 
 ***
 
-# Testing Snippet 1
+# Testing `snippet1.md`
 test

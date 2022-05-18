@@ -96,7 +96,10 @@ __other java file__
 # Analysis of the Snippet Tests
 
 ## code change for snippet 1
-I do not believe there is a small code change (<10 lines) that will make my program work for snippet 1 and all related cases that use incline code with backticks due to my coding abilities. My suggested change might be longer and involved through a conditional that will check for backticks and when the conditional is true, then the program will run a separate filter made for backticks where the currentIndex will start where the last ] is located and the program will use the parentheses and backtick indices to find a link. In addition, there may be an extra for loop to filter out the same links if necessary.
+I do not believe there is a small code change (<10 lines) that will make my program work for snippet 1 and all related cases that use incline code with backticks due to my coding abilities and the way that I built my program. My suggested change might be longer, involved, and redundant through a conditional that will check for backticks and when the conditional is true, then the program will run a separate filter made for backticks where the `currentIndex` will start where the last ] is located and the program will use the parentheses and backtick indices to find a link. In addition, there may be an extra for loop and ArrayList to filter out the same links if necessary.
 
 ## code change for snippet 2
-s
+I do not believe there is a small code change (<10 lines) that will make my program work for snippet 2 and all related cases that use nested parentheses, brackets, and escape brackets due to like snippet 1 of my coding abilities and the way that I built my program. My suggest change might be longer, involved, and redundant through a conditional that will check what symbols are present for the program to run a seprate filter in which `currentIndex` should start from an open symbol and find a closing symbol and take the text between into a ArrayList for every symbol instance and have a another ArrayList that will take strings that have the "." in them as a valid link. In addition, there may be an extra for loop and ArrayList to filter out the same links if necessary.
+
+## code change for snippet 3
+I do not believe there is a small code change (<10 lines) that will make my program work for snippet 3 and all related cases that use newlines in brackets and parenthesis.

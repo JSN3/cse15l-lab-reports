@@ -93,7 +93,7 @@ __other java file__
 
 ***
 
-## Analysis of the Snippet Tests
+# Analysis of the Snippet Tests
 
-# Snippet 1
+## Snippet 1
 r

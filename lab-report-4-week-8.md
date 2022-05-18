@@ -33,3 +33,34 @@ __my java file__
 __other java file__
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%202c.png)
+
+***
+
+## Testing Snippet 2
+
+__expectations for both java files__
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203a-4a.png)
+
+__JUnit Tests in MarkdownParse.Test__
+
+__my java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203b.png)
+
+__other java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%204b.png)
+
+__Terminal Output__
+
+__my java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%203c.png)
+
+__other java file__
+
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%204c.png)
+
+***
+
+r

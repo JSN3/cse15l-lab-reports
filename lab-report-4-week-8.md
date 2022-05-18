@@ -89,7 +89,7 @@ __my java file__
 
 __other java file__
 
-![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%206c.png)
+![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-4-photos/LR4%20-%20Part%206c%20extra.png)
 
 ***
 

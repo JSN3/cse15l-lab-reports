@@ -59,7 +59,7 @@ The problem with the other code is that the program does not check to stop the p
 
 ***
 
-# Analysis of 230.md
+## Analysis of 230.md
 
 my output vs. other output
 

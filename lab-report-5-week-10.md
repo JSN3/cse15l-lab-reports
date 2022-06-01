@@ -52,7 +52,7 @@ Where the other code should be fixed:
 Bug Explanation:
 
 my problem:
-The problem with my code is that the program will run this conditional since there are no "<" or "(", but it should not since the program should aim to find a proper "[]()" format for retrieving links inside the "()". In addition, the extra blank lines will supposely cause the program to result in a infinite loop error or an IndexOutOfBoundsError if that conditional runs.
+The problem with my code is that the program will run this conditional since there are no "<" or "(", but it should not since the program should aim to find a proper `[]()` format for retrieving links inside the "()". In addition, the extra blank lines will supposely cause the program to result in a infinite loop error or an IndexOutOfBoundsError if that conditional runs.
 
 other problem:
 The problem with the other code is that the program does not check to stop the program if the proper markdown format is not present. The program should terminate by returning an empty ArrayList if the format is invalid to prevent any loose text to be added.
@@ -82,7 +82,7 @@ Where the other code should be fixed:
 Bug Explanation:
 
 my problem:
-The problem with my code is that the program will run this conditional since there are no "[" or "(", but it should not since the program should aim to find a proper "[]()" format for retrieving links inside the "()". In addition, the extra blank lines will supposely cause the program to result in a infinite loop error or an IndexOutOfBoundsError if that conditional runs since the program is searching for "<" or ">".
+The problem with my code is that the program will run this conditional since there are no "[" or "(", but it should not since the program should aim to find a proper `[]()` format for retrieving links inside the "()". In addition, the extra blank lines will supposely cause the program to result in a infinite loop error or an IndexOutOfBoundsError if that conditional runs since the program is searching for "<" or ">".
 
 other problem:
 The problem with the other code is that the program does not check to stop the program if the proper markdown format is not present. The program should terminate by returning an empty ArrayList if the format is invalid to prevent any loose text to be added.

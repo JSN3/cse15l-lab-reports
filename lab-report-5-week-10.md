@@ -71,5 +71,7 @@ expectations: both should share the same outcome
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-5-photos/Part%204b.png)
 
+Where my code should be fixed:
 
+![Image]()
 

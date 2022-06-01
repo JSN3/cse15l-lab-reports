@@ -65,7 +65,7 @@ my output vs. other output
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-5-photos/Part%204a2.png)
 
-Both implementations are incorrect because 212.md contains no links, so the program should return an empty ArrayList.
+Both implementations are incorrect because 230.md contains no links, so the program should return an empty ArrayList.
 
 expectations: both should share the same outcome
 

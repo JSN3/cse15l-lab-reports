@@ -37,6 +37,7 @@ my output vs. other output
 
 Both implementations are incorrect because 212.md contains no links, so the program should return an empty ArrayList.
 
-expectations: both should share the same outcome:
+expectations: both should share the same outcome
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-5-photos/Part%204b.png)
+

@@ -86,3 +86,7 @@ The problem with my code is that the program will run this conditional since the
 
 other problem:
 The problem with the other code is that the program does not check to stop the program if the proper markdown format is not present. The program should terminate by returning an empty ArrayList if the format is invalid to prevent any loose text to be added.
+
+***
+
+~ End ~

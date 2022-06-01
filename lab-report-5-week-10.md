@@ -11,7 +11,7 @@
 
 ## Test Results
 
-I found tests with different results using vimdiff.
+I found tests with different results using vimdiff on comparing two result.txt files (mine vs. other) that store the outcomes of script.sh.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-5-photos/Part%201.png)
 

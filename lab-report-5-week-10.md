@@ -15,7 +15,7 @@ I found tests with different results using vimdiff.
 
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-5-photos/Part%201.png)
 
-_For the results generated from my markdown-parse file, `[]` represents an IndexOutOfBoundsException, instead of printing out the long error statements I have simplified them to represent an empty ArrayList result as my most of my MarkdownParse.java had an error or would not load while for the other markdown-parse file `[]` represents a standard case of an empty ArrayList where nothing was added._
+_For the results generated from my markdown-parse file, `[]` represents an IndexOutOfBoundsException, instead of printing out the long error statements I have simplified them to represent an empty ArrayList result as my most of my test files had an error or would not load with my MarkdownParse.java while for the other markdown-parse file `[]` represents a standard case of an empty ArrayList where nothing was added._
 
 ***
 

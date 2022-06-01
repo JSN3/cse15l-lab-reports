@@ -50,5 +50,5 @@ Where the other code should be fixed:
 ![Image](https://raw.githubusercontent.com/JSN3/cse15l-lab-reports/main/lab-report-5-photos/Part%205b.png)
 
 Bug Explanation:
-The problem with my code is that the program will run that conditional since 
+The problem with my code is that the program will run that conditional since there are no ">" or ")".
 
